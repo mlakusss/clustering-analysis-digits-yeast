@@ -1,0 +1,12 @@
+.vs/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# системные
+.DS_Store
+Thumbs.db
+
+# данные (если не хочешь грузить большие файлы)
+# yeast.data
